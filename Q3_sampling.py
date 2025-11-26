@@ -1,7 +1,7 @@
 import cv2, numpy as np, matplotlib.pyplot as plt
 
 # Read image in COLOR (BGR → RGB)
-img = cv2.imread("image.png")
+img = cv2.imread("bird-image.png")
 if img is None:
     raise ValueError("Image not found!")
 
