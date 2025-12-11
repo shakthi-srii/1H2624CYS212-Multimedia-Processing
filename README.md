@@ -9,3 +9,9 @@ Q1 - Desaturation (Grayscale, Octree, Median Cut)
 Q2 - K-Means Color Quantization
 
 Q3 - Frequency and Spacial Sampling
+
+Q4 - HDR Imaging: CRF Estimation, Irradiance Recovery & Global Tone Mapping
+
+Q5 - Spatial Filtering: Box & Gaussian Filters on Color Image
+
+Q6 - Bit-Plane Slicing: Low-Light vs Bright-Light Image Reconstruction
